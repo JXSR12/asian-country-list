@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asiancountrylist/static/css/main.4effcd80.css",
+    "main.js": "/asiancountrylist/static/js/main.a09628cf.js",
+    "static/js/787.6820fd12.chunk.js": "/asiancountrylist/static/js/787.6820fd12.chunk.js",
+    "index.html": "/asiancountrylist/index.html",
+    "main.4effcd80.css.map": "/asiancountrylist/static/css/main.4effcd80.css.map",
+    "main.a09628cf.js.map": "/asiancountrylist/static/js/main.a09628cf.js.map",
+    "787.6820fd12.chunk.js.map": "/asiancountrylist/static/js/787.6820fd12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4effcd80.css",
+    "static/js/main.a09628cf.js"
+  ]
+}
