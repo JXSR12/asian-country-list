@@ -7,7 +7,7 @@ import BookmarksPage from './pages/BookmarksPage/BookmarksPage';
 
 function App() {
   return (
-    <Router basename="/asian-country-list">
+    <Router>
       <div>
         <nav className="navbar navbar-dark bg-primary fixed-bottom mt-5 justify-content-between">
           <div className="container">
